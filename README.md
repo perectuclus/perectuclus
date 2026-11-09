@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @perectuclus
-- 👀 I’m interested in create a otserv
 - 🌱 I’m currently learning C++/Lua
 
 <!---
